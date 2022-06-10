@@ -1,6 +1,6 @@
 
 // Define a new C++ enum type called Operation that has members for add,
-// subtract, division,  subtraction, bitwise AND, bitwise OR, bitwise XOR, shift
+// subtract, division, multiplication, bitwise AND, bitwise OR, bitwise XOR, shift
 // right, and shift left:
 enum class Operation {
 
